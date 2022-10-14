@@ -22,6 +22,8 @@ General unit converter aimed at the International System of Units, Imperial Syst
 
 **If you liked this project, or if it was useful to you, please [consider becoming a sponsor](https://github.com/sponsors/melchisedech333) :blue_heart:**
 
+[Click here](https://github.com/trinity-units/trinity-units) to access the project repository.
+
 <br>
 
 :smiley: Author
